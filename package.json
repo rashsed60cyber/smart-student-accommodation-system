@@ -1,6 +1,7 @@
 
+
 {
-  "name": "mess-finding-system",
+  "name": "smart-student-accommodation-system",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -17,6 +18,6 @@
     "react-router-dom": "^7.9.1",
     "lucide-react": "^0.544.0"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "homepage": "https://rashsed60cyber.github.io/smart-student-accommodation-system/"
 }
-"homepage": "https://rashsed60cyber.github.io/mess-finding-system",
